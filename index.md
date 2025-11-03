@@ -1,8 +1,3 @@
----
-layout: default
-title: Loompay Documentation
----
-
 # 👋 Welcome to Loompay Docs
 
 The smarter way to spend your crypto on multi-chains.
